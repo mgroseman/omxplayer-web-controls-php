@@ -1,0 +1,1 @@
+www-data ALL=(ALL) NOPASSWD: /bin/sh -c ./cls.sh, /sbin/shutdown -r now, /sbin/shutdown -h now

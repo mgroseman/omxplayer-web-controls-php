@@ -1,0 +1,2 @@
+This was before Mike Roseman's updates:
+https://github.com/JugglerLKR/omxplayer-web-controls-php
